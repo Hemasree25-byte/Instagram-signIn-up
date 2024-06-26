@@ -19,16 +19,16 @@ This assignment is a responsive sign-in/sign-up page inspired by Instagram's web
 Clone the project
 
 ```bash
-  git clone https://github.com/Hemasree25-byte/Instagram-signIn-up.git
+  git clone https://github.com/Hemasree25-byte/SOC_project.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Instagram-signIn-up
+  cd SOC_project
 ```
 
-Open the index.html file i your web browser to view the page.
+Open the index.html file in your web browser to view the page.
 
 
 There are no local dependencies to install, since the project uses the Tailwind CSS CDN for styling.This makes the setup straightforward, as you only need a web brower to view the page.
